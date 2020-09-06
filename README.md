@@ -10,7 +10,7 @@ How to Run
 __To clone:__
 1. Open bash
 2. Select the directory where you want to clone the repository
-3. Run the command `$ git clone https://github.com/BrianS99/Single-Player-Pong.git`.
+3. Run the command `$ git clone https://github.com/BrianS99/Single-Player-Pong.git`
 4. Press Enter
 
 __To run:__
