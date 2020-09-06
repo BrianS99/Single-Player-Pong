@@ -1,5 +1,5 @@
 # Single Player Pong - Introduction
-This game is entirely in Java, and works just like the classic game of Pong. The user uses key inputs to control the paddle to play against a computer, and can pause the game using the SPACE key
+This game is entirely in Java, and works just like the classic game of Pong. 
 
 About the Game
 ---
@@ -16,6 +16,10 @@ __To clone:__
 __To run:__
 
 Use any Java IDE such as Eclipse or IntelliJ IDEA to open the project and run the game
+
+How to Play
+---
+Use the W and S keys to move your paddle (Left) up and down. Press SPACE to start and pause the game. Do not let the ball go into your goal, which is the left side of the screen.
 
 Author
 ---
